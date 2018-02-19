@@ -1,0 +1,22 @@
+{
+  "name": "lab2-test",
+  "version": "0.0.1",
+  "description": "this is the lab2 excercise from coursera",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "mariona",
+  "email": "bitsybloques@gmail.com",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "composer-admin": "latest",
+    "composer-client": "latest",
+    "composer-common": "latest",
+    "composer-connector-embedded": "latest",
+    "chai": "latest",
+    "eslint": "latest",
+    "istanbul": "latest",
+    "mkdirp": "latest",
+    "mocha": "latest"
+  }
+}
